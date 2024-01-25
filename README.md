@@ -2,6 +2,8 @@
 
 Welcome to the "Behavioral Software Engineering" repository! This is a book I am writing to explore the human side of software engineering, focusing on human behavior, biases, incentives, and their impact on development processes.
 
+The title of this project, "Behavioral Software Engineering," draws inspiration from the field of behavioral economics, where the study of human behavior and decision-making is applied to economic contexts. Similarly, this project aims to examine the influence of human behavior on software engineering practices, providing insights into the often overlooked aspects of development processes.
+
 ## About the Project
 
 This repository serves as the collaborative space for writing and discussing the content of the book. Contributions, feedback, and discussions are highly welcomed.

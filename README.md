@@ -22,7 +22,7 @@ We welcome contributions from the community. If you're interested in contributin
 5. Push to your branch: `git push origin feature/your-feature-name`.
 6. Open a pull request.
 
-Please make sure to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) and follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+Please make sure to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 

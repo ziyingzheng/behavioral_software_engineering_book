@@ -1,6 +1,10 @@
 ### Content
 
-
+1. Background
+2. The Challenges
+    1. Attribution Bias: "It's just an infrastructure flakiness"
+    2. Complacency Bias: "Why would I investigate if it doesn't cause build failure?"
+3. Summary
 
 ### 1. Background
 
@@ -16,7 +20,7 @@ So we build some data collection. In each integration test build, at the end, we
 
 Now we have the data about unexpected pod events. They sometimes cause test failures. Since the namespace only lives less than 30 minutes, we expect the pods to remain healthy during the entire time. So we started to work with each service team to understand why their services sometimes are unhealthy in the middle of test case execution. We ran into a couple challenges in this collaboration.
 
-#### 2.1 It's just an infrastructure flakiness
+#### 2.1 Attribution Bias: "It's just an infrastructure flakiness"
 
 A common response we got was: are these just infra flakiness? 
 
@@ -39,7 +43,7 @@ Our response was to present the data. We showed them the metrics data as well as
 
 In some times, we also present the data to a team `foo` that their service suddenly start to have a lot more unexpected pod events since last week, while other services have similar amount over the last a few weeks. That's a clear data indicating that there is something in `foo`. 
 
-#### 2.2 Does it cause build failure?
+#### 2.2 Complacency Bias: "Why would I investigate if it doesn't cause build failure?"
 
 Some teams also asked: do these cause build failures?
 

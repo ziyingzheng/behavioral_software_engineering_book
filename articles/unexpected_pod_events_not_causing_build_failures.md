@@ -55,7 +55,7 @@ Speaking of delivering high quality software, there are still a lot of values to
 
 But still, we don't have a good answer to "Why would I investigate if it doesn't cause build failure?". 
 
-This kind of human behavior you is quite common and falls under the category of "reactive versus proactive behavior" or **"complacency bias"**.
+This kind of human behavior falls under the category of "reactive versus proactive behavior" or **"complacency bias"**.
 
 From ChatGPT:
 

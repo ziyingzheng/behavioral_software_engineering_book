@@ -1,8 +1,8 @@
 ### Taxi Meter Effect
 
-"Taxi Meter Effect" refers to the phenomenon that consumers feel discomfort by mentally linking every extra unit of consumption to an increase in price, such as when the taxi meter is running. It's not just a fear that the taxi fee might end up very high due to the congestion, nor the convenience of a flat-rate price. It’s also that consumers hate knowing that each extra minute or mile is costing them money[1].
+"Taxi Meter Effect" refers to the phenomenon that consumers feel discomfort by mentally linking every extra unit of consumption to an increase in price, such as when the taxi meter is running. It's not just a fear that the taxi fee might end up very high due to the congestion, nor the convenience of a flat-rate price. It’s also that consumers hate knowing that each extra minute or mile is costing them money ([ref](https://slate.com/news-and-politics/2013/12/the-taxi-meter-effect-why-do-consumers-hate-paying-by-the-mile-or-the-minute-so-much.html)).
 
-Taxi Meter Effect is also one of the reasons why people like the all-you-can-eat buffet[2] and all-inclusive hotels. Behind the Taxi Meter Effect, it's often human's irrationality, because in many times, a metered fare is actually lower than a fixed fee. 
+Taxi Meter Effect is also one of the reasons why people like the all-you-can-eat buffet ([ref](https://www.npr.org/2023/10/27/1197954459/all-you-can-eat-buffets-economics)) and all-inclusive hotels. Behind the Taxi Meter Effect, it's often human's irrationality, because in many times, a metered fare is actually lower than a fixed fee. 
  
 ### In Software Engineering
 
@@ -23,8 +23,3 @@ Just like the discomfort we have when sitting in a taxi watching the meter ticki
 
 We use the Taxi Meter Effect (in a reverse way) to raise the cost awareness among our engineers. 
 
-
----
-Notes:
-[1] Reference: https://slate.com/news-and-politics/2013/12/the-taxi-meter-effect-why-do-consumers-hate-paying-by-the-mile-or-the-minute-so-much.html
-[2] https://www.npr.org/2023/10/27/1197954459/all-you-can-eat-buffets-economics

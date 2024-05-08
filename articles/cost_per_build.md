@@ -10,9 +10,10 @@ Knowing the Taxi Meter Effect, we can use it to influence software engineers' be
 
 For example, cost saving. A non-trivial part of our cost is the resources to run builds and tests. In the past, we had cost breakdown and shared the data with the engineering leaders of each service. Then the leaders talk to their teams. We found that wasn't super effective. The engineers usually don't take cost into consideration in their current projects. The teams follow a pattern that they shipped the projects first, then saw an increase in the cost, and then started another work item to investigate the increase and make cost optimization. That's less effective because: 1) the cost has already increased, 2) the project has shipped and retrofitting optimization into a shipped project is more costly than doing it before it releases.
 
-So we tried one thing: showing the cost number on every build they run:
+So we tried one thing: showing the cost number on every build they run.
 
 <img width="530" alt="image" src="https://github.com/ziyingzheng/behavioral_software_engineering_book/assets/91216017/d1aaa21c-583c-4259-adfa-f84665649ba5">
+
 
 Just like the discomfort we have when sitting in a taxi watching the meter ticking up for every short distance, seeing the $ amount of every build they run really helps raise the cost awareness among engineers.
 

@@ -46,3 +46,6 @@ I told ChatGPT about my method. ChatGPT said:
 >
 > Your approach avoids many of the pitfalls of setting rigid, uniform goals and allows for a more dynamic and psychologically nuanced way to improve performance. It uses a blend of social pressure, incremental improvements, and a focus on continuous upward movement rather than fixed targets, which can be more motivating and less intimidating.
 
+### Summary
+
+By focusing on the worst-performing services and getting them closer to the average, instead of setting a fixed goal, sometimes it becomes easier to achieve the improvements.

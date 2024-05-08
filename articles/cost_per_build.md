@@ -6,9 +6,11 @@ Taxi Meter Effect is also one of the reasons why people like the all-you-can-eat
  
 ### In Software Engineering
 
-Knowing the Taxi Meter Effect, we can use it to influence software engineers' behavior. 
+Knowing the Taxi Meter Effect, we can use it to influence software engineers' behavior. For example, cost saving. 
 
-For example, cost saving. A non-trivial part of our cost is the resources to run builds and tests. In the past, we had cost breakdown and shared the data with the engineering leaders of each service. Then the leaders talk to their teams. We found that wasn't super effective. The engineers usually don't take cost into consideration in their current projects. The teams follow a pattern that they shipped the projects first, then saw an increase in the cost, and then started another work item to investigate the increase and make cost optimization. That's less effective because: 1) the cost has already increased, 2) the project has shipped and retrofitting optimization into a shipped project is more costly than doing it before it releases.
+A non-trivial part of our cost is the resources to run builds and tests. In the past, we had cost breakdown and shared the data with the engineering leaders of each service. Then the leaders talk to their teams. 
+
+We found that wasn't super effective. The engineers usually don't take cost into consideration in their current projects. The teams follow a pattern that they shipped the projects first, then saw an increase in the cost, and then started another work item to investigate the increase and make cost optimization. That's less effective because: 1) the cost has already increased, 2) the project has shipped and retrofitting optimization into a shipped project is more costly than doing it before it releases.
 
 So we tried one thing: showing the cost number on every build they run.
 
